@@ -32,7 +32,7 @@
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="kyiv.cfm">Kyiv</a></li>
                         <li><a class="dropdown-item" href="odessa.cfm">Odessa</a></li>
-						<li><hr class="dropdown-divider"></li>
+			<li><hr class="dropdown-divider"></li>
                         <li><a class="dropdown-item" href="ukraine.cfm">UKRAINE</a></li>
                     </ul>
                 </li>
