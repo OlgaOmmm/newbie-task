@@ -1,7 +1,6 @@
 //to calc random summer temperature
 function randomTemperature(){
 	var calcTemperature = Math.floor(Math.random() * 12) + 20;
-	console.log('function');
 	return ('+' + calcTemperature);
 }
 
